@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"26b82305c640ec1f","type":"text","text":"博客","x":-480,"y":-80,"width":250,"height":60},
+		{"id":"bdcaf03928b32394","type":"text","text":"JAVA类","x":-30,"y":-290,"width":200,"height":100},
+		{"id":"c778db5df542516b","type":"text","text":"工具使用","x":-30,"y":-10,"width":200,"height":100},
+		{"id":"655b5df0d5ffe617","type":"text","text":"","x":-30,"y":130,"width":200,"height":100},
+		{"id":"adbef9c3ae9baa4e","type":"text","text":"算法","x":-30,"y":-150,"width":200,"height":100}
+	],
+	"edges":[
+		{"id":"8a531aa5bf147b83","fromNode":"26b82305c640ec1f","fromSide":"right","toNode":"bdcaf03928b32394","toSide":"left"},
+		{"id":"f9777220914a4fab","fromNode":"26b82305c640ec1f","fromSide":"right","toNode":"c778db5df542516b","toSide":"left"},
+		{"id":"9d2d2c709591eee2","fromNode":"26b82305c640ec1f","fromSide":"right","toNode":"655b5df0d5ffe617","toSide":"left"},
+		{"id":"f97b9adf726cb5e3","fromNode":"26b82305c640ec1f","fromSide":"right","toNode":"adbef9c3ae9baa4e","toSide":"left"}
+	]
+}
