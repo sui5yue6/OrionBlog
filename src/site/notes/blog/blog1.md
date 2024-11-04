@@ -8,7 +8,7 @@ hello world
 
 
 
-
+[blog2](blog/blog2.md)
 
 
 
